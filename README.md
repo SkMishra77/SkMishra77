@@ -105,11 +105,11 @@ About Me = [
 
 <div align="center">
     <h3><b>DevOps Tools</b></h3>
-    <code><a href="#" target="_blank"><img src="https://assets.stickpng.com/images/62a73678223343fbc2207cef.png" title="Jenkins" alt="Jenkins" width="70" height="50"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/jenkins.png" title="Jenkins" alt="Jenkins" width="70" height="50"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://d28yx2zopyx2ad.cloudfront.net/assets/kubernetes.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
     <br><br>
     <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/ansible-icon-512x512-o62vjrpd.png" title="Ansible" alt="Ansible" width="40" height="40"/></a></code>&nbsp;
     <br><br>

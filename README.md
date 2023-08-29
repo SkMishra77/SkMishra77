@@ -1,7 +1,7 @@
 <div>
  <!-- ayush image at at top -->
     <div align="center">
-        <a href="https://github.com/AyushAgnihotri2025"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" /></a>
+        <a href="https://github.com/SkMishra77"><img src="https://d28yx2zopyx2ad.cloudfront.net/sanatSign.png" height="200" /></a>
     </div>
     <!-- typing effect -->
     <div align="center">

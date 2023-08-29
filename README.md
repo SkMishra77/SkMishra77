@@ -83,7 +83,7 @@ About Me = [
     <code><a #="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" alt="firebase" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="postgresql" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://assets.stickpng.com/images/584830b5cef1014c0b5e4a9c.png" title="Redis" alt="Redis" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/redis.png" title="Redis" alt="Redis" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">

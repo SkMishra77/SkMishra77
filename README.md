@@ -121,11 +121,18 @@ About Me = [
 <div align="center">
 
 ![skmishra77's Stats](https://github-readme-stats.vercel.app/api?username=skmishra77&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+<hr>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkMishra77&theme=dark)](https://git.io/streak-stats)
+
+<hr>
+
  ![skmishra77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skmishra77&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-</div>
 <hr>
+</div>
+
 
 ```bash
     Created By SANAT KUMAR MISHRA

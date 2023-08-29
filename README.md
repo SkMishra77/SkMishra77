@@ -65,7 +65,7 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="CSS3" alt="css3"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 <div align="center">
@@ -108,7 +108,7 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/jenkins.png" title="Jenkins" alt="Jenkins" width="70" height="50"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://d28yx2zopyx2ad.cloudfront.net/assets/kubernetes.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
     <br><br>
     <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/ansible-icon-512x512-o62vjrpd.png" title="Ansible" alt="Ansible" width="40" height="40"/></a></code>&nbsp;

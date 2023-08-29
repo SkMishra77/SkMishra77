@@ -116,16 +116,13 @@ About Me = [
 </div>
 </div>
 <hr>
-<div align="center"><h3><b>GitHub Streak</b></h3></div>
-<div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkMishra77&theme=dark)](https://git.io/streak-stats)
-
-</div>
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=skmishra77&hide_progress=false&theme=dark)](https://git.io/streak-stats)
+![skmishra77's Stats](https://github-readme-stats.vercel.app/api?username=skmishra77&theme=dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkMishra77&theme=dark)](https://git.io/streak-stats)
+ ![skmishra77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skmishra77&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 <hr>

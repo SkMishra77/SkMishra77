@@ -18,13 +18,7 @@
         <br />
         <p>
             <strong>
-                I am a dedicated Backend Developer and DevOps enthusiast with a strong technical background and a passion for creating efficient and robust software solutions. With hands-on experience in REST API development, AWS deployment, and architecture planning, I excel at turning complex concepts into practical applications.
-
-My proficiency in languages such as Python, Golang, C++, and C empowers me to tackle diverse programming challenges. Leveraging frameworks like Django, Flask, and Gin, I craft scalable and responsive web applications. My expertise extends to tools like Jenkins, Docker, and Git, enabling streamlined development and deployment workflows.
-
-My database proficiency spans Firebase, MongoDB, and MySQL, ensuring data management excellence. I am well-versed in both Linux and Windows platforms, and my mastery of cloud technologies, including AWS services like EC2, S3, and IAM, underscores my commitment to modern infrastructure.
-
-My technical acumen is complemented by leadership skills, as demonstrated by my role as a Dev Team Lead for Ignitia 2K23 at PSIT. Achievements such as Quiz GeekX 1.0 Runner's Up and Codechef 3-star rating showcase my problem-solving prowess. With a firm grasp of emerging technologies and a collaborative approach, I am poised to drive innovation and success in any technical endeavor.
+                Hi, I’m Sanat—a 21-year-old tech enthusiast with a passion for backend wizardry 🧙‍♂️ and cloud conjuring ☁️. I spend most of my time talking to servers more than people (they’re good listeners👂). and persuading my code to run smoothly—kind of like getting a cat 😾 into a bath 🚿 . Fluent in Python 🐍 , C++, and the occasional debugging chant 🪄, I’m all about making apps faster ⚡, smarter 🧠, and almost glitch-free. When I’m not debating with APIs or dreaming up ways to make the cloud do my bidding, you’ll find me plotting my next big project… or at least hoping my code doesn’t have other plans! 😅 Oh, and I’ve also graced the hallowed halls of college, where I learned that caffeine is the true programming language! ☕️🎓
             </strong>
         </p>
         <h1></h1>

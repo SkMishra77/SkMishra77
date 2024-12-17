@@ -23,36 +23,52 @@
         
  
 
- 
+# About Me
+
 ```json
-About Me = {
-  "moniker": "Sanat 🧙‍♂️",
-  "digital_persona": "Code Alchemist ✨ & Cloud Architect ☁️",
-  "bio": "I'm a 21-year-old software artisan 💻 crafting robust backend systems and orchestrating cloud symphonies 🎼. My mission: to build applications that not only function flawlessly ✅ but also inspire awe 🤩. I wield Python 🐍 and C++ ⚙️ like enchanted tools, conjuring elegant solutions to complex problems 🤔. Certified by AWS 🏆 to navigate the cloud's intricate landscapes 🗺️, I'm constantly seeking new ways to push the boundaries of what's possible 🚀. When I'm not immersed in the digital realm 🌐, you might find me exploring new coffee blends ☕ or deciphering the secrets of ancient algorithms (just kidding... mostly 😉).",
-  "arsenal": {
-    "languages": ["Python 🐍", "C++ ⚙️", "Bash (for spellcasting 📜)"],
-    "technologies": ["AWS (Certified Architect) ☁️🏆", "Serverless Computing ⚡", "API Design & Integration 🔗", "Database Management 🗄️"],
-    "special_abilities": ["Performance Optimization 🚀", "Troubleshooting (aka bug slaying 🐞🔨)", "Cloud Infrastructure Design 🏗️"]
-  },
-  "quests": [
-    "Building highly scalable and performant applications. 📈",
-    "Automating cloud infrastructure for maximum efficiency. ⚙️🤖",
-    "Exploring the intersection of AI and distributed systems. 🧠🕸️",
-    "Mastering the art of clean and maintainable code. 🧼✨"
-  ],
-  "quirks": [
-    "I believe semicolons are optional (but use them anyway, just in case 😉).",
-    "My code reviews often involve dramatic readings of error messages. 🎭😂",
-    "I have a deep appreciation for well-commented code (it's like leaving breadcrumbs for future adventurers 🍞🗺️).",
-    "I occasionally talk to my rubber duck debugger (he's a great listener 🦆🗣️)."
-  ],
-  "narrative": [
-    "A student forging a path in the world of software engineering, driven by a thirst for knowledge and a desire to create impactful technology. 🎓💡",
-    "Proficient in core programming languages and cloud platforms, with a focus on backend development and system architecture. 🏗️💻",
-    "Dedicated to continuous improvement and embracing new challenges as opportunities for growth. 🌱🚀",
-    "On a mission to transform abstract ideas into tangible digital realities, one line of code at a time. ✨➡️"
-  ]
-}
+const About_Me = [
+  {
+    "moniker": "Sanat 🧙‍♂️",
+    "digital_persona": "Code Alchemist ✨ & Cloud Architect ☁️",
+    "bio": "I'm a 21-year-old software artisan 💻 crafting robust backend systems and orchestrating cloud symphonies 🎼. My mission: to build applications that not only function flawlessly ✅ but also inspire awe 🤩. I wield Python 🐍 and C++ ⚙️ like enchanted tools, conjuring elegant solutions to complex problems 🤔. Certified by AWS 🏆 to navigate the cloud's intricate landscapes 🗺️, I'm constantly seeking new ways to push the boundaries of what's possible 🚀. When I'm not immersed in the digital realm 🌐, you might find me exploring new coffee blends ☕ or deciphering the secrets of ancient algorithms (just kidding... mostly 😉).",
+    "arsenal": {
+      "languages": [
+        "Python 🐍",
+        "C++ ⚙️",
+        "Bash (for spellcasting 📜)"
+      ],
+      "technologies": [
+        "AWS (Certified Architect) ☁️🏆",
+        "Serverless Computing ⚡",
+        "API Design & Integration 🔗",
+        "Database Management 🗄️"
+      ],
+      "special_abilities": [
+        "Performance Optimization 🚀",
+        "Troubleshooting (aka bug slaying 🐞🔨)",
+        "Cloud Infrastructure Design 🏗️"
+      ]
+    },
+    "quests": [
+      "Building highly scalable and performant applications. 📈",
+      "Automating cloud infrastructure for maximum efficiency. ⚙️🤖",
+      "Exploring the intersection of AI and distributed systems. 🧠🕸️",
+      "Mastering the art of clean and maintainable code. 🧼✨"
+    ],
+    "quirks": [
+      "I believe semicolons are optional (but use them anyway, just in case 😉).",
+      "My code reviews often involve dramatic readings of error messages. 🎭😂",
+      "I have a deep appreciation for well-commented code (it's like leaving breadcrumbs for future adventurers 🍞🗺️).",
+      "I occasionally talk to my rubber duck debugger (he's a great listener 🦆🗣️)."
+    ],
+    "narrative": [
+      "A student forging a path in the world of software engineering, driven by a thirst for knowledge and a desire to create impactful technology. 🎓💡",
+      "Proficient in core programming languages and cloud platforms, with a focus on backend development and system architecture. 🏗️💻",
+      "Dedicated to continuous improvement and embracing new challenges as opportunities for growth. 🌱🚀",
+      "On a mission to transform abstract ideas into tangible digital realities, one line of code at a time. ✨➡️"
+    ]
+  }
+]
 ```
 
 <div align="center">

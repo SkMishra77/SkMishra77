@@ -29,8 +29,9 @@ const About_Me = {
   "bio": "I'm a 21-year-old software artisan 💻 crafting robust backend systems and orchestrating cloud symphonies 🎼.\n" +
          "My mission: to build applications that not only function flawlessly ✅ but also inspire awe 🤩.\n" +
          "I wield Python 🐍 and C++ ⚙️ like enchanted tools, conjuring elegant solutions to complex problems 🤔.\n" +
-         "Certified by AWS 🏆 to navigate the cloud's intricate landscapes 🗺️, I'm constantly seeking new ways to push the boundaries of what's possible 🚀.\n" +
-         "When I'm not immersed in the digital realm 🌐, you might find me exploring new coffee blends ☕ or deciphering the secrets of ancient algorithms (just kidding... mostly 😉).",
+         "Certified by AWS 🏆 to navigate the cloud's intricate landscapes 🗺️\n"+
+         "When I'm not immersed in the digital realm 🌐, you might find me exploring new coffee blends ☕\n" + 
+         "or deciphering the secrets of ancient algorithms (just kidding... mostly 😉).",
   "arsenal": {
     "languages": [
       "Python 🐍",

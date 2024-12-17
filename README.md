@@ -34,7 +34,7 @@
         </ul>
         <br />
     </div>
-```py
+```
 About Me = [
     "I'm a student with a passion for coding and a journey of continuous learning.",
     "Proficient in languages like Python,Go, as well as web technologies including HTML, CSS, and JS.",

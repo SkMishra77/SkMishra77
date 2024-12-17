@@ -35,13 +35,14 @@ const About_Me = {
     "languages": [
       "Python 🐍",
       "C++ ⚙️",
+      "JS",
       "Bash (for spellcasting 📜)"
     ],
     "technologies": [
       "AWS (Certified Architect) ☁️🏆",
       "Serverless Computing ⚡",
       "API Design & Integration 🔗",
-      "Database Management 🗄️"
+      "Database Management 🗄️: PostgreSQL"
     ],
     "special_abilities": [
       "Performance Optimization 🚀",
@@ -59,7 +60,7 @@ const About_Me = {
     "I believe semicolons are optional (but use them anyway, just in case 😉).",
     "My code reviews often involve dramatic readings of error messages. 🎭😂",
     "I have a deep appreciation for well-commented code (it's like leaving breadcrumbs for future adventurers 🍞🗺️).",
-    "I occasionally talk to my rubber duck debugger (he's a great listener 🦆🗣️)."
+    "I occasionally talk to my rubber duck debugger (🦆🗣️)."
   ],
   "narrative": [
     "A student forging a path in the world of software engineering, driven by a thirst for knowledge and a desire to create impactful technology. 🎓💡",

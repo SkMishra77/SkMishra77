@@ -1,5 +1,4 @@
 <div>
- <!-- ayush image at at top -->
     <div align="center">
         <a href="https://github.com/SkMishra77"><img src="https://d28yx2zopyx2ad.cloudfront.net/sanatSign.png" height="200" /></a>
     </div>
@@ -21,19 +20,8 @@
                 Hi, I’m Sanat—a 21-year-old tech enthusiast with a passion for backend wizardry 🧙‍♂️ and cloud conjuring (AWS Certified Architect) ☁️. I spend most of my time talking to servers more than people (they’re good listeners👂). and persuading my code to run smoothly—kind of like getting a cat 😾 into a bath 🚿 . Fluent in Python 🐍 , C++, and the occasional debugging chant 🪄, I’m all about making apps faster ⚡, smarter 🧠, and almost glitch-free. When I’m not debating with APIs or dreaming up ways to make the cloud do my bidding, you’ll find me plotting my next big project… or at least hoping my code doesn’t have other plans! 😅 Oh, and I’ve also graced the hallowed halls of college, where I learned that caffeine is the true programming language! ☕️🎓
             </strong>
         </p>
-        <h1></h1>
-        <ul>
-            <li>🔭 <b>I’m currently working on</b>: Django, MongoDB, S3, EC2...etc .</li>
-            <li>🌱 <b>I’m currently learning</b>: Kubernetes & AWS</li>
-            <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competetive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
-            </li>
-            <!-- <li>👨‍💻 <b>All of my projects are available at</b>: <a href="">My Portfolio</a>.</li>
-            <li>⚡ Fun fact: <b>I think I am funny</b>.</li> -->
-        </ul>
-        <br />
-    </div>
+        
+ 
 
  
 ```json
@@ -154,7 +142,6 @@ About Me = {
 
 
 ```bash
-    Created By SANAT KUMAR MISHRA
-    2023©Adaye ALL RIGHT RESERVED
+    Created By SkMishra@2024
 ```
 

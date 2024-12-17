@@ -21,11 +21,8 @@
             </strong>
         </p>
         
- 
 
-# About Me
-
-```json
+```js
 const About_Me = [
   {
     "moniker": "Sanat 🧙‍♂️",

@@ -34,14 +34,15 @@
         </ul>
         <br />
     </div>
-```
-About Me = [
+ ```bash
+    About Me = [
     "I'm a student with a passion for coding and a journey of continuous learning.",
     "Proficient in languages like Python,Go, as well as web technologies including HTML, CSS, and JS.",
     "Dedicated to exploring new concepts in coding every day.",
     "My world is woven with lines of code, and I'm on a quest to turn ideas into reality. 💻✨"
 ]
 ```
+
 <div align="center">
     <h1>Skill Set 💪</h1>
     <h4>These are some of the major technologies that I use or have worked on in the past:</h4>

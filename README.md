@@ -18,7 +18,7 @@
         <br />
         <p>
             <strong>
-                Hi, I’m Sanat—a 21-year-old tech enthusiast with a passion for backend wizardry 🧙‍♂️ and cloud conjuring ☁️. I spend most of my time talking to servers more than people (they’re good listeners👂). and persuading my code to run smoothly—kind of like getting a cat 😾 into a bath 🚿 . Fluent in Python 🐍 , C++, and the occasional debugging chant 🪄, I’m all about making apps faster ⚡, smarter 🧠, and almost glitch-free. When I’m not debating with APIs or dreaming up ways to make the cloud do my bidding, you’ll find me plotting my next big project… or at least hoping my code doesn’t have other plans! 😅 Oh, and I’ve also graced the hallowed halls of college, where I learned that caffeine is the true programming language! ☕️🎓
+                Hi, I’m Sanat—a 21-year-old tech enthusiast with a passion for backend wizardry 🧙‍♂️ and cloud conjuring (AWS Certified Architect) ☁️. I spend most of my time talking to servers more than people (they’re good listeners👂). and persuading my code to run smoothly—kind of like getting a cat 😾 into a bath 🚿 . Fluent in Python 🐍 , C++, and the occasional debugging chant 🪄, I’m all about making apps faster ⚡, smarter 🧠, and almost glitch-free. When I’m not debating with APIs or dreaming up ways to make the cloud do my bidding, you’ll find me plotting my next big project… or at least hoping my code doesn’t have other plans! 😅 Oh, and I’ve also graced the hallowed halls of college, where I learned that caffeine is the true programming language! ☕️🎓
             </strong>
         </p>
         <h1></h1>
